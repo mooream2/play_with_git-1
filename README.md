@@ -6,5 +6,4 @@ hello world !
  *!*
 
  ## Funny Mokey
- ![monkey] (67534351.png)
- 
+ ![monkey](67534351.png)
